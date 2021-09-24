@@ -1,5 +1,5 @@
 {
-  "toys": [
+  "firearms": [
     {
       "id": 1,
       "name": "HK USP .40",
@@ -29,24 +29,6 @@
       "name": "Mosin Nagant",
       "image": "Mosin-Nagant.jpeg",
       "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
     }
   ]
 }
