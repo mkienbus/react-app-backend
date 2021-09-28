@@ -3,32 +3,27 @@
     {
       "id": 1,
       "name": "HK USP .40",
-      "image": "./photos/USP40.jpeg",
-      "likes": 8
+      "image": "photos/USP40.jpeg"
     },
     {
       "id": 2,
       "name": "HK VP9",
-      "image": "./photos/VP9.jpeg",
-      "likes": 14
+      "image": "./photos/VP9.jpeg"
     },
     {
       "id": 3,
       "name": "HK VP9 SK",
-      "image": "./photos/VP9SK",
-      "likes": 3
+      "image": "./photos/VP9SK"
     },
     {
       "id": 4,
       "name": "Daniel Defense M4V5",
-      "image": "./photos/DDM4V5.jpeg",
-      "likes": 4
+      "image": "./photos/DDM4V5.jpeg"
     },
     {
       "id": 5,
       "name": "Mosin Nagant",
-      "image": "Mosin-Nagant.jpeg",
-      "likes": 1
+      "image": "Mosin-Nagant.jpeg"
     }
   ]
 }
