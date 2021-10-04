@@ -3,26 +3,31 @@
     {
       "id": 1,
       "name": "HK USP .40",
+      "description": "Hammer-fired double to single action full frame .40 caliber pistol",
       "image": "photos/USP40.jpeg"
     },
     {
       "id": 2,
       "name": "HK VP9",
+      "description": "Striker-fired full frame 9mm pistol",
       "image": "./photos/VP9.jpeg"
     },
     {
       "id": 3,
       "name": "HK VP9 SK",
+      "description": "Striker-fired compact 9mm pistol",
       "image": "./photos/VP9SK"
     },
     {
       "id": 4,
       "name": "Daniel Defense M4V5",
+      "description": "Semi-automatic 5.56mm X 45mm gas operated rifle",
       "image": "./photos/DDM4V5.jpeg"
     },
     {
       "id": 5,
       "name": "Mosin Nagant",
+      "description": "Bolt action 7.62 X 54mm rifle",
       "image": "Mosin-Nagant.jpeg"
     }
   ]
